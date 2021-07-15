@@ -49,11 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="APiHelper.cs" />
-    <Compile Include="Category.cs" />
-    <Compile Include="DataModel.cs" />
-    <Compile Include="DataProcessor.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="Service classes\APiHelper.cs" />
+    <Compile Include="DataModels\Category.cs" />
+    <Compile Include="DataModels\DataModel.cs" />
+    <Compile Include="Service classes\DataProcessor.cs" />
+    <Compile Include="DataModels\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
